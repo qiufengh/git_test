@@ -8,10 +8,5 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Git1");
         System.out.println("Hello Git2");
-        System.out.println("Hello Git4!!!");
-        System.out.println("hot-fix test!");
-        System.out.println("push commit 测试一下");
-        System.out.println("pull test!");
-        System.out.println("pull test!11111111111111111");
     }
 }
